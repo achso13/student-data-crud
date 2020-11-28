@@ -1,0 +1,17 @@
+.profile-picture {
+    height: 100px;
+    width: 100px;
+}
+
+.upload-picture {
+    width: 100px;
+    height: 100px;
+}
+
+label {
+    display: block;
+}
+
+.narrow {
+    width: 480px;
+}
